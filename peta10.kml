@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ambarawa 2</name>
+    <description/>
+    <NetworkLink>
+      <name>ambarawa 2</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1aUmPP9r118otzYITYtQlzp_4wNE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
